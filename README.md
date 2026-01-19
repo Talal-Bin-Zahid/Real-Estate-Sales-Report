@@ -34,10 +34,15 @@ The Decomposition Tree highlights how bedrooms, grade, view, and condition colle
 Metric	Value
 
 Total Sales	$11.67bn
+
 Average Price	$540.09K
+
 Price per Sqft	$259.67
+
 Assumed Cost	$9.34bn
+
 Total Profit	$2.33bn
+
 Return on Investment (ROI)	25.00%
 
 
